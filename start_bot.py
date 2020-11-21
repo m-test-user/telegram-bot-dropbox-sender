@@ -1,7 +1,6 @@
 import datetime
 import os
 import shutil
-from tempfile import TemporaryFile
 
 import dropbox
 from dotenv import load_dotenv
